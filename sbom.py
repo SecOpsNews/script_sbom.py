@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import quote
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 
 SKIP_DIRS = {
     ".git", ".hg", ".svn", "node_modules", ".venv", "venv", "env", "__pycache__", ".tox", ".mypy_cache",
