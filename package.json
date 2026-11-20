@@ -1,0 +1,11 @@
+{
+  "name": "@secopsnews/script_sbom.py",
+  "version": "1.0.0",
+  "description": "Scan a folder's dependency manifests and lock files and write a CycloneDX sbom.json. Python standard library only.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SecOpsNews/script_sbom.py.git"
+  },
+  "author": "thechelsuk",
+  "license": "MIT"
+}
